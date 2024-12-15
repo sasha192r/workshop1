@@ -43,7 +43,8 @@
 ### Проверка работоспособности установленного ПО.
 
 - Проверка Anaconda3 и Jypyter ![jypyterlab](https://github.com/user-attachments/assets/f056effd-36f6-4b94-aa22-78e82a55fc2c)
-- Проверка Unity ![Unity](https://github.com/user-attachments/assets/c64d4f91-f637-4aaf-9445-22238026e0e2)
+- Проверка Unity ![image](https://github.com/user-attachments/assets/e19ab836-05cc-49d4-8002-55e80d9a08aa)
+
 
 ## Выводы
 
